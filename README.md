@@ -65,6 +65,8 @@
 
 <p>
   <a href="https://github.com/Ratul-007"><img src="https://img.shields.io/badge/GitHub-Ratul--007-181717?style=flat&logo=github" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ratul-das-b1807133a/"><img src="https://img.shields.io/badge/LinkedIn-Ratul%20Das-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
