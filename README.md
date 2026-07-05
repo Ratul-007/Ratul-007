@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineering Student | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/Ratul-007">
-    <img src="https://komarev.com/ghpvc/?username=Ratul-007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ratul-007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -54,8 +52,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratul-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul-007&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=Ratul-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ratul-007&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
@@ -71,8 +72,3 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
-
-<!---
-Ratul-007/Ratul-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
