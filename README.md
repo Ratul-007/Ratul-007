@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ratul 👋</h1>
-<h3 align="center">Software Engineering Student | Web Developer | Problem Solver</h3>
+<h3 align="center">Computer Science & Engineering Student | Web & 3D Developer | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ratul-007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,27 +9,29 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor's student in **Software Engineering**
-- 🔭 Currently building **[GroceryGenius](https://github.com/Ratul-007/GroceryGenius)** — a smart grocery management & meal planning web app
-- 🌱 Expanding my skills in **PHP, MySQL, Python, and System Design**
-- 👥 Team Leader of **404 Team Not Found**
-- 💼 Freelancer on **Fiverr** — Digital Marketing & Web Services
+- 🎓 B.Sc. in **Computer Science and Engineering** at Chittagong Independent University
+- 🔭 Currently building **[AstroBase](https://github.com/Ratul-007/AstroBase-Moon-Mars-Survival-Simulator)** — a Moon-Mars survival simulation for the NASA Space Apps Challenge 2026
+- 🌱 Expanding my skills in **React, Three.js, NLP, and Machine Learning**
+- 👥 Team Leader for our **NASA Space Apps Challenge 2026** team
+- 💼 Undergraduate Researcher & Freelancer on **Fiverr**
 - ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Tools & Platforms**
 
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -38,7 +40,16 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🌌 AstroBase-Moon-Mars-Survival-Simulator
+> An interactive 3D space mission simulation for the NASA Space Apps Challenge 2026
+
+- Built with **React, Three.js (@react-three/fiber), JavaScript & Vite**
+- Features: 3D terrain exploration, interactive mission map, real-time survival metrics
+- 🔗 [View Repository](https://github.com/Ratul-007/AstroBase-Moon-Mars-Survival-Simulator)
+
+<br>
 
 ### 🛒 GroceryGenius
 > A smart grocery management and meal planning web application
